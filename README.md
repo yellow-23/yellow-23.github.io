@@ -2,7 +2,7 @@ Pagina:
 
 https://yellow-23.github.io
 
-Proyectos forkeados y commits:
+Proyectos forkeados y commits (me intente contactar con mis compañeros pero solo 1 me paso su repo de github y aun no me ha aceptado el commit)
 
 https://github.com/AU-DevRepos/Landing-page/pull/1
 
